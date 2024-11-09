@@ -1,1 +1,1 @@
-# webscraping-and-etl
+Small ETL project that involves web scraping with BeautifulSoup to extract data and save it to a Pandas dataframe, apply some transformation with Pandas and Numpy, then load the data to a csv file and an SQLite table and run some queries on the table, all the while appending messages to a log file for each stage of the process.
